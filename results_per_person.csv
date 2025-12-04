@@ -1,21 +1,21 @@
 file,risk_status,predicted_condition,prob_anxiety,prob_depression,prob_neutral
-A10.wav,At Risk,Anxiety,0.366,0.432,0.202
-A11.wav,At Risk,Anxiety,0.369,0.444,0.188
-A3.wav,At Risk,Depression,0.406,0.23,0.364
-A4.wav,At Risk,Depression,0.439,0.31,0.251
-A5.wav,At Risk,Depression,0.392,0.191,0.418
-A6.wav,At Risk,Anxiety,0.466,0.437,0.097
-A7.wav,At Risk,Anxiety,0.378,0.412,0.209
-A8.wav,At Risk,Anxiety,0.371,0.444,0.185
-A9.wav,At Risk,Anxiety,0.364,0.427,0.209
-D3.wav,At Risk,Depression,0.479,0.158,0.364
-D4.wav,At Risk,Depression,0.426,0.162,0.412
-D5.wav,At Risk,Depression,0.435,0.234,0.33
-D6.wav,At Risk,Depression,0.457,0.156,0.387
-D7.wav,At Risk,Depression,0.43,0.166,0.404
-D8.wav,Not At Risk,Neutral,0.527,0.379,0.094
-N3.wav,Not At Risk,Neutral,0.49,0.404,0.106
-N4.wav,At Risk,Depression,0.466,0.281,0.253
-N6.wav,At Risk,Anxiety,0.466,0.437,0.097
-N7.wav,Not At Risk,Neutral,0.527,0.379,0.094
-N8.wav,Not At Risk,Neutral,0.498,0.419,0.083
+A10.wav,At Risk,Anxiety,0.218,0.454,0.328
+A11.wav,At Risk,Anxiety,0.214,0.466,0.32
+A3.wav,At Risk,Depression,0.425,0.169,0.406
+A4.wav,At Risk,Depression,0.57,0.169,0.262
+A5.wav,At Risk,Depression,0.358,0.188,0.453
+A6.wav,At Risk,Anxiety,0.446,0.432,0.123
+A7.wav,At Risk,Anxiety,0.26,0.414,0.327
+A8.wav,At Risk,Anxiety,0.219,0.463,0.318
+A9.wav,At Risk,Anxiety,0.218,0.45,0.332
+D3.wav,At Risk,Depression,0.631,0.083,0.286
+D4.wav,At Risk,Depression,0.444,0.132,0.425
+D5.wav,At Risk,Depression,0.55,0.138,0.311
+D6.wav,At Risk,Depression,0.542,0.099,0.359
+D7.wav,At Risk,Depression,0.467,0.137,0.396
+D8.wav,Not At Risk,Neutral,0.733,0.203,0.063
+N3.wav,Not At Risk,Neutral,0.595,0.297,0.107
+N4.wav,At Risk,Depression,0.677,0.117,0.206
+N6.wav,At Risk,Anxiety,0.446,0.432,0.123
+N7.wav,Not At Risk,Neutral,0.733,0.203,0.063
+N8.wav,Not At Risk,Neutral,0.555,0.364,0.081

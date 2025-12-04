@@ -181,6 +181,23 @@ def train_model(X: np.ndarray, y: np.ndarray):
 
     return model, scaler, y_val, y_pred
 
+def predict_one(model, scaler, features: np.ndarray):
+    """
+    Common prediction helper:
+    - scales features
+    - gets predict_proba
+    - chooses class as argmax(probabilities)
+    Returns:
+        pred_label, proba (1D array), classes (list)
+    """
+    feats_scaled = scaler.transform([features])
+    proba = model.predict_proba(feats_scaled)[0]
+    classes = list(model.classes_)
+    idx = int(np.argmax(proba))
+    pred_label = classes[idx]
+    return pred_label, proba, classes
+
+
 
 # =========================
 # PREDICT ON UNLABELED DATA
