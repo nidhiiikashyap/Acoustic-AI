@@ -1,7 +1,11 @@
 streamlit
-librosa
 numpy
 pandas
 scikit-learn
 joblib
 matplotlib
+seaborn
+librosa
+soundfile
+audioread
+
